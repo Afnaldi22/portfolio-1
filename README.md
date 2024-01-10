@@ -1,6 +1,3 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
-
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
 
 ## What you will learn
 
@@ -9,7 +6,7 @@
 - Next.js Server Actions
 - Client & Server Components
 - TypeScript (Beginner & Intermediate)
-- Tailwind CSS
+- Tailwind CS
 - Context API
 - Advanced Animations with Framer Motion
 - React.Email & Resend
